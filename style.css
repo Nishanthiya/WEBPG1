@@ -94,11 +94,11 @@ html{
     margin-top: 80px;
 }
 @keyframes move {
-    0%, 33%{
+    10%, 45%{
         background-image: url("assets/img1.png");
         margin-left: 0px;
     }
-    33%,63%{
+    45%,63%{
         background-image: url("assets/img2.png") ;
     }
     63%,100%{
