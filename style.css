@@ -33,6 +33,9 @@ html{
     font-size: 40px;
     font-weight: bold;
     font-family: "Allura", cursive;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 .logo img{
     width: 50px;
